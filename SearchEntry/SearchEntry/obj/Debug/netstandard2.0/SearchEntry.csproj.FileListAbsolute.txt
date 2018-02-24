@@ -1,0 +1,11 @@
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\bin\Debug\netstandard2.0\SearchEntry.deps.json
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\bin\Debug\netstandard2.0\SearchEntry.dll
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\bin\Debug\netstandard2.0\SearchEntry.pdb
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.csprojResolveAssemblyReference.cache
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.csproj.CoreCompileInputs.cache
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.App.xaml.g.cs
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.MainPage.xaml.g.cs
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.AssemblyInfoInputs.cache
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.AssemblyInfo.cs
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.dll
+C:\Users\Sella\Source\Repos\SearchEntrySolution\SearchEntry\SearchEntry\obj\Debug\netstandard2.0\SearchEntry.pdb

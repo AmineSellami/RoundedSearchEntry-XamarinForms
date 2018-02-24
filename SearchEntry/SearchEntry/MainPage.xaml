@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="SearchEntry.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:SearchEntry.Controls"
+    xmlns:local="clr-namespace:SearchEntry">
+
+
+    <controls:RoundedSearchEntry
+        Margin="20,0"
+        FontSize="Small"
+        HeightRequest="30"
+        Image="searchsmall"
+        ImageHeight="30"
+        ImageWidth="30"
+        Placeholder="SEARCH: Parking, POI"
+        PlaceholderColor="#003975"
+        TextColor="#003975"
+        VerticalOptions="Center" />
+
+</ContentPage>
