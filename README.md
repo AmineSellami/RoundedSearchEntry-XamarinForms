@@ -31,4 +31,4 @@ XAML CODE
 ```
 
 ### Screenshot 
-<img src="hhttps://github.com/AmineSellami/RoundedSearchEntry-XamarinForms/blob/master/Screenshots/searchEntry.png?raw=true" width="60%"/>
+![GitHub Logo](/Screenshots/searchEntry.png?)
