@@ -1,6 +1,6 @@
 # RoundedSearchEntry-XamarinForms
 
-This is a demo for a custom search entry in Xamarin Forms.
+This is a demo for a custom search entry for Xamarin Forms.
 
 ### Core Project
 I have added some bindable properties like :  
